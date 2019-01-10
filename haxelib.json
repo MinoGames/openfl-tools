@@ -5,6 +5,7 @@
 	"tags": [],
 	"description": "OpenFL 5 tools folder",
 	"version": "5.0.0",
+	"classPath": "src/",
 	"releasenote": "Initial Commit",
 	"contributors": []
 }
