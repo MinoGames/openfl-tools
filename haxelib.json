@@ -1,0 +1,10 @@
+{
+	"name": "openfl-tools",
+	"url": "http://www.openfl.org",
+	"license": "MIT",
+	"tags": [],
+	"description": "OpenFL 5 tools folder",
+	"version": "5.0.0",
+	"releasenote": "Initial Commit",
+	"contributors": []
+}
